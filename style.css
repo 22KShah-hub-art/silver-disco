@@ -1,0 +1,30 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+canvas {
+    border: 5px solid grey;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin: 20px;
+    padding: 30px;
+}
+
+.h1 {
+    box-shadow: 10px;
+    padding: 30px;
+    margin: 20px;
+    border: 15px;
+    text-align: middle;
+    margin-right: 50%;
+}
+
+.h4 {
+    box-shadow: 10px;
+    padding: 30px;
+    margin: 20px;
+    border: 15px;
+    text-align: middle;
+    margin-right: 50%;
+}
